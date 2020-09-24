@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+//Really bad solution i looped 3 times for no reason dont use this
+
 using namespace std;
 
 int main()
