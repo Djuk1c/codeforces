@@ -1,0 +1,173 @@
+QCoreApplication::applicationDirPath: Please instantiate the QApplication object first
+Crashdump ENABLED,  directory is: /home/djukic/.ts3client/crashdumps
+DUMP defined! Dumpdir is: /home/djukic/.ts3client/crashdumps
+2020-09-24 18:47:18.841001|INFO    |              |   |TeamSpeak Client 3.5.2 (2020-04-02 07:35:52)
+2020-09-24 18:47:18.841218|INFO    |              |   |SystemInformation: Linux 5.8.0-kali1-amd64 #1 SMP Debian 5.8.7-1kali1 (2020-09-14) x86_64 Binary: 64bit
+2020-09-24 18:47:18.943424|DEBUG   |PulseAudio    |   |connected to pulse audio server - 
+2020-09-24 18:47:18.971106|INFO    |ClientUI      |   |OpenGL Info: LibGL, Vendor: X.Org, Renderer: AMD Radeon (TM) R7 300 Series (BONAIRE, DRM 3.38.0, 5.8.0-kali1-amd64, LLVM 10.0.1), Version: 4.6 (Compatibility Profile) Mesa 20.1.7
+2020-09-24 18:47:19.236566|INFO    |Addons        |   |Checking for addon updates...
+2020-09-24 18:47:19.387347|INFO    |Plugins       |   |Loading plugin: libclientquery_plugin_linux_amd64.so
+2020-09-24 18:47:19.431617|INFO    |Query         |   |listening on 127.0.0.1:25639
+2020-09-24 18:47:19.436494|INFO    |Addon         |   |Addon up to date.
+ClientQueryPlugin: currentServerConnectionChanged 1 (0)
+2020-09-24 18:47:20.177172|INFO    |              |   |successfully downloaded revocation list for accounting
+2020-09-24 18:47:20.335029|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2020-09-24 18:47:20.359775|INFO    |              |   |*** Time [MAINWINDOW]: 729
+2020-09-24 18:47:20.359883|INFO    |              |   |*** Time [INIT]: 730
+2020-09-24 18:47:20.393433|INFO    |ClientUI      |   |Failed to init text to speech engine
+2020-09-24 18:47:20.393571|INFO    |ClientUI      |   |Qt version: 5.12.1
+2020-09-24 18:47:20.393616|INFO    |ClientUI      |   |Using configuration location: /home/djukic/.ts3client/settings.db
+2020-09-24 18:47:20.860199|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2020-09-24 18:47:20.860975|INFO    |ClientUI      |   |Last update check was: Tue Sep 22 16:43:33 2020
+2020-09-24 18:47:20.973520|INFO    |Update        |   |Checking for updates...
+2020-09-24 18:47:21.216331|INFO    |Update        |   |License update available; version 5 to 5 (min version 5 to 4)
+2020-09-24 18:47:21.216565|INFO    |Update        |   |Latest client release on channel 'stable': 3.5.3 [Build: 1588756070]
+2020-09-24 18:47:21.216683|INFO    |Update        |   |Client update available; build 1585812952 to 1588756070
+2020-09-24 18:47:21.362298|INFO    |Newsticker    |   |Newsticker next check: Wed Sep 23 20:54:32 2020 GMT
+2020-09-24 18:47:21.567512|INFO    |Newsticker    |   |Newsticker received for language en, expires on Fri Sep 25 18:47:22 2020 GMT, next check in 86400 seconds
+2020-09-24 18:47:31.046461|INFO    |              |   |Statistics report: User previously denied participation
+QMetaObject::connectSlotsByName: No matching signal for on_queued_open_dialog()
+QMetaObject::connectSlotsByName: No matching signal for on_account_created(QString,QString)
+2020-09-24 18:47:31.813478|INFO    |              |   |tried to request user integration info without valid session
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+Installed Qt WebEngine locales directory not found at location /home/djukic/TeamSpeak3-Client-linux_amd64/translations/qtwebengine_locales. Trying application directory...
+Installed Qt WebEngine locales directory not found at location /home/djukic/TeamSpeak3-Client-linux_amd64/translations/qtwebengine_locales. Trying application directory...
+QCoreApplication::applicationDirPath: Please instantiate the QApplication object first
+Crashdump ENABLED,  directory is: /home/djukic/.ts3client/crashdumps
+DUMP defined! Dumpdir is: /home/djukic/.ts3client/crashdumps
+2020-09-24 18:47:43.807435|INFO    |              |   |TeamSpeak Client 3.5.2 (2020-04-02 07:35:52)
+2020-09-24 18:47:43.807520|INFO    |              |   |SystemInformation: Linux 5.8.0-kali1-amd64 #1 SMP Debian 5.8.7-1kali1 (2020-09-14) x86_64 Binary: 64bit
+2020-09-24 18:47:43.866389|DEBUG   |PulseAudio    |   |connected to pulse audio server - 
+2020-09-24 18:47:43.893370|INFO    |ClientUI      |   |OpenGL Info: LibGL, Vendor: X.Org, Renderer: AMD Radeon (TM) R7 300 Series (BONAIRE, DRM 3.38.0, 5.8.0-kali1-amd64, LLVM 10.0.1), Version: 4.6 (Compatibility Profile) Mesa 20.1.7
+2020-09-24 18:47:43.948914|INFO    |Addons        |   |Checking for addon updates...
+2020-09-24 18:47:43.974455|INFO    |Plugins       |   |Loading plugin: libclientquery_plugin_linux_amd64.so
+2020-09-24 18:47:43.977158|INFO    |Query         |   |listening on 127.0.0.1:25639
+2020-09-24 18:47:44.124456|INFO    |Addon         |   |Addon up to date.
+ClientQueryPlugin: currentServerConnectionChanged 1 (0)
+2020-09-24 18:47:44.580807|INFO    |              |   |*** Time [MAINWINDOW]: 409
+2020-09-24 18:47:44.580911|INFO    |              |   |*** Time [INIT]: 410
+2020-09-24 18:47:44.584788|INFO    |ClientUI      |   |Failed to init text to speech engine
+2020-09-24 18:47:44.584954|INFO    |ClientUI      |   |Qt version: 5.12.1
+2020-09-24 18:47:44.585043|INFO    |ClientUI      |   |Using configuration location: /home/djukic/.ts3client/settings.db
+2020-09-24 18:47:45.081364|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2020-09-24 18:47:45.082122|INFO    |ClientUI      |   |Last update check was: Thu Sep 24 20:47:20 2020
+2020-09-24 18:47:45.082942|INFO    |              |   |Statistics report: User previously denied participation
+2020-09-24 18:47:45.582525|INFO    |Newsticker    |   |Newsticker next check: Fri Sep 25 18:47:22 2020 GMT
+QMetaObject::connectSlotsByName: No matching signal for on_queued_open_dialog()
+QMetaObject::connectSlotsByName: No matching signal for on_account_created(QString,QString)
+2020-09-24 18:47:47.549245|INFO    |              |   |tried to request user integration info without valid session
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+Installed Qt WebEngine locales directory not found at location /home/djukic/TeamSpeak3-Client-linux_amd64/translations/qtwebengine_locales. Trying application directory...
+Installed Qt WebEngine locales directory not found at location /home/djukic/TeamSpeak3-Client-linux_amd64/translations/qtwebengine_locales. Trying application directory...
+QCoreApplication::applicationDirPath: Please instantiate the QApplication object first
+QCoreApplication::applicationDirPath: Please instantiate the QApplication object first
+Crashdump ENABLED,  directory is: /home/djukic/.ts3client/crashdumps
+DUMP defined! Dumpdir is: /home/djukic/.ts3client/crashdumps
+2020-09-24 18:48:03.581916|INFO    |              |   |TeamSpeak Client 3.5.2 (2020-04-02 07:35:52)
+2020-09-24 18:48:03.582001|INFO    |              |   |SystemInformation: Linux 5.8.0-kali1-amd64 #1 SMP Debian 5.8.7-1kali1 (2020-09-14) x86_64 Binary: 64bit
+2020-09-24 18:48:03.640562|DEBUG   |PulseAudio    |   |connected to pulse audio server - 
+2020-09-24 18:48:03.662942|INFO    |ClientUI      |   |OpenGL Info: LibGL, Vendor: X.Org, Renderer: AMD Radeon (TM) R7 300 Series (BONAIRE, DRM 3.38.0, 5.8.0-kali1-amd64, LLVM 10.0.1), Version: 4.6 (Compatibility Profile) Mesa 20.1.7
+2020-09-24 18:48:03.719607|INFO    |Addons        |   |Checking for addon updates...
+2020-09-24 18:48:03.745250|INFO    |Plugins       |   |Loading plugin: libclientquery_plugin_linux_amd64.so
+2020-09-24 18:48:03.748024|INFO    |Query         |   |listening on 127.0.0.1:25639
+2020-09-24 18:48:03.873876|INFO    |Addon         |   |Addon up to date.
+ClientQueryPlugin: currentServerConnectionChanged 1 (0)
+2020-09-24 18:48:04.338874|INFO    |              |   |*** Time [MAINWINDOW]: 405
+2020-09-24 18:48:04.338975|INFO    |              |   |*** Time [INIT]: 406
+2020-09-24 18:48:04.341524|INFO    |ClientUI      |   |Failed to init text to speech engine
+2020-09-24 18:48:04.341673|INFO    |ClientUI      |   |Qt version: 5.12.1
+2020-09-24 18:48:04.341702|INFO    |ClientUI      |   |Using configuration location: /home/djukic/.ts3client/settings.db
+2020-09-24 18:48:04.839406|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2020-09-24 18:48:04.840282|INFO    |ClientUI      |   |Last update check was: Thu Sep 24 20:47:20 2020
+2020-09-24 18:48:04.841253|INFO    |              |   |Statistics report: User previously denied participation
+2020-09-24 18:48:05.341284|INFO    |Newsticker    |   |Newsticker next check: Fri Sep 25 18:47:22 2020 GMT
+QMetaObject::connectSlotsByName: No matching signal for on_queued_open_dialog()
+QMetaObject::connectSlotsByName: No matching signal for on_account_created(QString,QString)
+2020-09-24 18:48:06.206734|INFO    |              |   |tried to request user integration info without valid session
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+Installed Qt WebEngine locales directory not found at location /home/djukic/TeamSpeak3-Client-linux_amd64/translations/qtwebengine_locales. Trying application directory...
+Installed Qt WebEngine locales directory not found at location /home/djukic/TeamSpeak3-Client-linux_amd64/translations/qtwebengine_locales. Trying application directory...
+2020-09-24 18:48:56.306222|INFO    |ClientUI      |1  |Connect to server: dead-zone
+2020-09-24 18:48:56.351910|INFO    |ClientUI      |1  |Trying to resolve dead-zone
+2020-09-24 18:48:56.352287|INFO    |TSDNS         |   |Trying to resolve server name: dead-zone
+2020-09-24 18:48:56.480216|INFO    |TSDNS         |   |Server name successfully resolved
+2020-09-24 18:48:56.480592|INFO    |TSDNS         |   |Lookup: 31.172.88.18:10009, parse result: IPv4 31.172.88.18 10009
+2020-09-24 18:48:56.480986|INFO    |TSDNS         |   |Server name resolved to IPs
+2020-09-24 18:48:56.483060|INFO    |ClientUI      |1  |Lookup finished: ip=31.172.88.18 port=10009 query=dead-zone error=0
+2020-09-24 18:48:56.483291|INFO    |ClientUI      |1  |Resolve successful: 31.172.88.18:10009
+2020-09-24 18:48:56.483400|INFO    |ClientUI      |1  |Initiating connection: 31.172.88.18:10009
+2020-09-24 18:48:57.356950|INFO    |ClientUI      |1  |Connect status: Connecting
+2020-09-24 18:48:57.423188|DEVELOP |PktHandler    |1  |Puzzle solve time: 6
+2020-09-24 18:48:57.584402|INFO    |ClientUI      |1  |Connect status: Connected
+2020-09-24 18:48:57.776100|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2020-09-24 18:48:57.791872|INFO    |ClientUI      |1  |Connect status: Connection established
+libpng warning: bKGD: invalid
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+2020-09-24 18:49:05.732661|INFO    |ClientUI      |1  |Connect to server: fastgame
+2020-09-24 18:49:05.846643|INFO    |ClientUI      |1  |Connect status: Disconnected
+2020-09-24 18:49:05.847769|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2020-09-24 18:49:05.850388|INFO    |ClientUI      |1  |Connecting to next server...
+2020-09-24 18:49:05.850496|INFO    |ClientUI      |1  |Connect to server: fastgame
+2020-09-24 18:49:05.851564|INFO    |ClientUI      |1  |Trying to resolve fastgame
+2020-09-24 18:49:05.851705|INFO    |TSDNS         |   |Trying to resolve server name: fastgame
+2020-09-24 18:49:05.979669|INFO    |TSDNS         |   |Server name successfully resolved
+2020-09-24 18:49:05.979939|INFO    |TSDNS         |   |Lookup: 91.218.64.34:9016, parse result: IPv4 91.218.64.34 9016
+2020-09-24 18:49:05.980391|INFO    |TSDNS         |   |Server name resolved to IPs
+2020-09-24 18:49:05.980671|INFO    |ClientUI      |1  |Lookup finished: ip=91.218.64.34 port=9016 query=fastgame error=0
+2020-09-24 18:49:05.980883|INFO    |ClientUI      |1  |Resolve successful: 91.218.64.34:9016
+2020-09-24 18:49:05.981049|INFO    |ClientUI      |1  |Initiating connection: 91.218.64.34:9016
+2020-09-24 18:49:06.857798|INFO    |ClientUI      |1  |Connect status: Connecting
+2020-09-24 18:49:07.462151|DEVELOP |PktHandler    |1  |Puzzle solve time: 7
+2020-09-24 18:49:07.630280|INFO    |ClientUI      |1  |Connect status: Connected
+2020-09-24 18:49:07.930036|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2020-09-24 18:49:07.941715|INFO    |ClientUI      |1  |Connect status: Connection established
+libpng warning: iCCP: known incorrect sRGB profile
+2020-09-24 18:49:21.483429|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 0
+2020-09-24 18:49:22.825275|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 0.5
+2020-09-24 18:49:22.842806|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 1
+2020-09-24 18:49:22.854032|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 1.5
+2020-09-24 18:49:22.873410|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 2
+2020-09-24 18:49:22.885327|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 2.5
+2020-09-24 18:49:22.903344|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 3
+2020-09-24 18:49:22.917989|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 3.5
+2020-09-24 18:49:22.933509|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 4
+2020-09-24 18:49:23.073417|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 4.5
+2020-09-24 18:49:23.106436|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 5
+2020-09-24 18:49:23.139378|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 5.5
+2020-09-24 18:49:23.341367|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 6
+libpng warning: iCCP: known incorrect sRGB profile
+2020-09-24 18:50:06.434943|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 6
+2020-09-24 18:50:07.331938|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 5.5
+2020-09-24 18:50:07.380958|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 5
+2020-09-24 18:50:07.429801|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 4.5
+2020-09-24 18:50:07.465832|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 4
+2020-09-24 18:50:08.792854|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 3.5
+2020-09-24 18:50:08.827841|INFO    |ClientUI      |1  |UserVolumeWidget::setClientVolumeModifier: 126 3
+2020-09-24 19:12:15.729196|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:12:22.292944|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:28:03.804161|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:35:35.988323|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:36:00.031601|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:36:05.477181|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:36:10.916381|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:36:23.069346|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:36:24.791513|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:41:17.491258|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:42:06.676329|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:42:10.517346|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+2020-09-24 19:44:03.423875|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
+QMetaObject::connectSlotsByName: No matching signal for on_queued_open_dialog()
+QMetaObject::connectSlotsByName: No matching signal for on_account_created(QString,QString)
+2020-09-24 20:13:02.726526|INFO    |              |   |tried to request user integration info without valid session
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+QLayout: Attempting to add QLayout "" to ProfileManager "", which already has a layout
+2020-09-24 20:33:25.788094|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 
