@@ -18,7 +18,7 @@ int main()
 	}
 	for (int i = 0; i < n; i++)
 	{
-		if (scores[i] >= scores[k])
+		if (scores[i] >= scores[k] && scores[k] > 0)
 		{
 			counter++;
 		}
