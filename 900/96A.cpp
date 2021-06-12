@@ -31,7 +31,7 @@ int main()
             break;
         }
     }
-
+    // XD
     if (!yes)
     {
         cout << "NO\n";
